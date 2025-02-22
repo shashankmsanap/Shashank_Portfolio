@@ -81,8 +81,7 @@ const CONFIG = {
     'HTML',
     'CSS',
     'Kubernetes',
-    'Azure'
-    'Aws',
+    'Azure',
   ],
   experiences: [
     {
