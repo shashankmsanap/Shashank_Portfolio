@@ -52,7 +52,7 @@ const CONFIG = {
     },
   },
   seo: {
-    title: 'Portfolio of Ariful Alam',
+    title: 'Portfolio of Shashank Sanap',
     description: '',
     imageURL: '',
   },
@@ -124,16 +124,16 @@ const CONFIG = {
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Atlantic Technological University, Letterkenny, Ireland.',
+      degree: 'MSc In DevOps',
+      from: 'September 2022',
+      to: 'May 2024',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Prof Ram Meghe Institute of Technology and Research, Badnera, Amravati.',
+      degree: 'BE in Electronics and Telecommunications',
+      from: 'September 2016',
+      to: 'June 2019',
     },
   ],
   publications: [
