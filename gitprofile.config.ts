@@ -138,22 +138,20 @@ const CONFIG = {
   ],
   publications: [
     {
-      title: 'Publication Title',
-      conferenceName: '',
-      journalName: 'Journal Name',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      title: 'Security Deployment Challanges in Microservices Architecture',
+      journalName: 'Research Paper',
+      authors: 'Shashank Sanap',
+      link: 'https://drive.google.com/file/d/1smG3tcfX86JDhZ4monSlh_l6QIYqJOj5/view?usp=sharing',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'This research explores security challenges in deploying microservices within DevOps environments. It emphasizes continuous deployment practices, secure pipeline design, and addressing gaps in team awareness and infrastructure. Key factors like testing, transparency, and design principles are identified to enhance reliability and security, providing a foundation to improve scalability and adaptability in microservices-based systems.',
     },
     {
-      title: 'Publication Title',
-      conferenceName: 'Conference Name',
-      journalName: '',
-      authors: 'John Doe, Jane Smith',
-      link: 'https://example.com',
+      title: 'Automating Threat Models as Code in a DevOps Pipeline',
+      journalName: 'Dessertation',
+      authors: 'Shashank Sanap',
+      link: 'https://drive.google.com/file/d/1MM_3bmuAnUdnfc794Gr4c8E2-si31Khu/view?usp=sharing',
       description:
-        'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.',
+        'This research focuses on automating threat modelling in DevOps to address cybersecurity risks in cloud-based applications. By integrating threat analysis early in development, it ensures secure, faster software delivery, reducing vulnerabilities in dynamic cloud environments.',
     },
   ],
   // Display articles from your medium or dev account. (Optional)
