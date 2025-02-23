@@ -3,10 +3,7 @@
 const CONFIG = {
   github: {
     username: 'shashankmsanap', // Your GitHub org/user name. (This is the only required config)
-    bio: 'DevOps enthusiast passionate about automation, cost optimization, and efficient cloud solutions. With 4 years of experience, 
-          I specialize in CI/CD pipelines, cloud infrastructure, and containerization using tools like Jenkins, Docker, Kubernetes, Terraform, and Ansible. 
-          Proficient in monitoring with Prometheus and Grafana, I excel at streamlining workflows, improving system reliability, and accelerating software 
-          delivery across cross-functional teams.',
+    bio: 'DevOps enthusiast passionate about automation, cost optimization, and efficient cloud solutions. With 4 years of experience, I specialize in CI/CD pipelines, cloud infrastructure, and containerization using tools like Jenkins, Docker, Kubernetes, Terraform, and Ansible. Proficient in monitoring with Prometheus and Grafana, I excel at streamlining workflows, improving system reliability, and accelerating software delivery across cross-functional teams.',
           },
   /**
    * If you are deploying to https://<USERNAME>.github.io/, for example your repository is at https://github.com/arifszn/arifszn.github.io, set base to '/'.
